@@ -2,11 +2,17 @@
 background-color: #cc0000;
 color: white
 }
-.25add {
+.redblack {
+background-color: #cc0000;
+color: white;
+border-bottom: 5px solid black;
+}
+
+.add25 {
 margin-top:25px;
 margin-bottom:25px;  
 }
-.50add {
+.add50 {
 margin-top:50px;
 margin-bottom:50px;
 }
